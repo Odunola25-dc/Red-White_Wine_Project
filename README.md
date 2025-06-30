@@ -2,7 +2,7 @@
 
 This project analyzes the **chemical properties** and **quality ratings** of red and white wines. Using visual analytics, we explore how features like acidity, alcohol, and residual sugar affect wine quality.
 
-![Wine Dashboard Screenshot](./Wine_Dashboard.png)
+
 
 ##  Project Objectives
 
